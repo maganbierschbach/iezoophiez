@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://quienohxiu.mysqludf.org/sitemap.xml
